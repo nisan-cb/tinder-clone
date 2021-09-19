@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tinder-clone/static/css/main.d459c79c.chunk.css",
+    "main.js": "/tinder-clone/static/js/main.c0265c3f.chunk.js",
+    "main.js.map": "/tinder-clone/static/js/main.c0265c3f.chunk.js.map",
+    "runtime-main.js": "/tinder-clone/static/js/runtime-main.faf90572.js",
+    "runtime-main.js.map": "/tinder-clone/static/js/runtime-main.faf90572.js.map",
+    "static/js/2.f3306c0c.chunk.js": "/tinder-clone/static/js/2.f3306c0c.chunk.js",
+    "static/js/2.f3306c0c.chunk.js.map": "/tinder-clone/static/js/2.f3306c0c.chunk.js.map",
+    "static/js/3.6277225d.chunk.js": "/tinder-clone/static/js/3.6277225d.chunk.js",
+    "static/js/3.6277225d.chunk.js.map": "/tinder-clone/static/js/3.6277225d.chunk.js.map",
+    "index.html": "/tinder-clone/index.html",
+    "static/css/main.d459c79c.chunk.css.map": "/tinder-clone/static/css/main.d459c79c.chunk.css.map",
+    "static/js/2.f3306c0c.chunk.js.LICENSE.txt": "/tinder-clone/static/js/2.f3306c0c.chunk.js.LICENSE.txt",
+    "static/media/tinder.0540cca1.png": "/tinder-clone/static/media/tinder.0540cca1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faf90572.js",
+    "static/js/2.f3306c0c.chunk.js",
+    "static/css/main.d459c79c.chunk.css",
+    "static/js/main.c0265c3f.chunk.js"
+  ]
+}
